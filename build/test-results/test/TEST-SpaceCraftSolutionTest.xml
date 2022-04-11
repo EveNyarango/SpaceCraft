@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SpaceCraftSolutionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-06T18:23:18" hostname="DESKTOP-44RH361" time="0.021">
+<testsuite name="SpaceCraftSolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-11T13:01:40" hostname="DESKTOP-44RH361" time="0.027">
   <properties/>
-  <testcase name="calculateAmountOfFuel()" classname="SpaceCraftSolutionTest" time="0.02"/>
-  <testcase name="calculateTotalAmountOfFuel()" classname="SpaceCraftSolutionTest" time="0.0"/>
+  <testcase name="checkOnCalculateAmountOfFuelMethod()" classname="SpaceCraftSolutionTest" time="0.02"/>
+  <testcase name="checkOnCalculateTotalAmountOfFuelWithReduceMethod()" classname="SpaceCraftSolutionTest" time="0.004"/>
+  <testcase name="checkOnCalculateTotalAmountOfFuelMethod()" classname="SpaceCraftSolutionTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
